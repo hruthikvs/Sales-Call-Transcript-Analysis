@@ -1,0 +1,50 @@
+Please evaluate the transcript using the following detailed scoring criteria for each category:
+
+IDEAL CUSTOMER PROFILE (ICP) FITMENT SCORING:
+Score 0:
+- Company size is far outside ideal target (selling less than 50 cars/month or volume unknown)
+- Customer persona is not an Automotive Dealer
+
+Score 1:
+- Company size is in ideal target (selling more than 50 cars/month)
+- Lead is a junior manager or influencer, not a primary decision-maker
+- Customer persona is an Automotive Dealer
+
+Score 2:
+- Company size is in ideal target (selling more than 50 cars/month)
+- Lead is a decision-maker (CXOs, Owner, General Manager, VP Marketing, Group Marketing Manager, Dealer Principal)
+- Customer persona is an Automotive Dealer
+
+NEEDS AND TIMING SCORING:
+Score 0:
+- No clear pain points identified or problems unrelated to solution
+- No sense of urgency; no timeline for solving issues
+- Lead has no clear intent to make a purchasing decision (just gathering information)
+
+Score 1:
+- Pain points are unclear or vague, not directly tied to solution
+- Low urgency; timeline for resolving issues is unclear or over 2 months away
+- Lead shows interest but not actively seeking a solution (early research phase)
+
+Score 2:
+- Pain points are clearly identified (e.g., current system inefficiencies or challenges)
+- High urgency; timeline for solution is less than 2 months
+- Lead is actively looking for solution or comparing vendors with intent to move forward soon
+
+BUDGET AND AUTHORITY SCORING:
+Score 0:
+- No clear decision-making authority or influence
+- No clear budget exists for solutions
+- Junior positions without decision-making power (not CXO, Owner, General Manager, VP Marketing, Group Marketing Manager, Dealer Principal)
+
+Score 1:
+- Limited authority (junior manager, departmental head) needing higher-up approval
+- Budget is unclear or not aligned with pricing, or not yet allocated
+- Some understanding of purchasing process but unsure about next steps
+
+Score 2:
+- Has full authority (CXOs, Owner, General Manager, VP Marketing, Group Marketing Manager, Dealer Principal)
+- Budget exists and firmly allocated/aligned with pricing
+- Understands purchasing process and prepared to act immediately
+
+Please analyze the transcript and provide a score (0-2) for each category with specific justification based on these criteria.
